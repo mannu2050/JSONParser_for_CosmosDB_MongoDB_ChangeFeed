@@ -1,0 +1,37 @@
+﻿{
+  "$t": 3,
+  "$v": {
+    "_id": {
+      "$t": 7,
+      "$v": "m"
+    },
+    "stockName": {
+      "$t": 2,
+      "$v": "MSFT"
+    },
+    "stockValue": {
+      "$t": 1,
+      "$v": 1.01
+    },
+    "stockValueAt": {
+      "$t": 9,
+      "$v": 1531794600000
+    }
+
+  },
+
+  "id": "NWI2MDYyODY2ZTM5ODUyMmYwN2E1ODZk",
+
+  "_rid": "u-ErAKX+YAB7hQAAAAAAAA==",
+
+  "_self": "dbs/u-ErAA==/colls/u-ErAKX+YAA=/docs/u-ErAKX+YAB7hQAAAAAAAA==/",
+
+  "_etag": "00000400-0000-0000-0000-5b6062860000",
+
+  "_attachments": "attachments/",
+
+  "_ts": 1533043334,
+
+  "_lsn": 34178
+
+} 
